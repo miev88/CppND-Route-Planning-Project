@@ -60,5 +60,5 @@ The testing executable is also placed in the `build` directory. From within `bui
 ```
 
 ## Google Colaboratory 
-Click [here](https://drive.google.com/open?id=1Vr8zg3fPljIuXgZvSeQ95HjR9SLvp7qc) to have a look at my notebook with comments about this project.
+Click [here](https://colab.research.google.com/drive/1Vr8zg3fPljIuXgZvSeQ95HjR9SLvp7qc) to have a look at my notebook with comments about this project.
   
